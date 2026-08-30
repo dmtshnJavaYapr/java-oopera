@@ -1,5 +1,7 @@
 import java.util.ArrayList;
 
+
+// Сканнер здесь был, потому что ТЗ прочитал не до конца и я начал делать консольку)
 public class Show {
     private String title;
     private int duration;
