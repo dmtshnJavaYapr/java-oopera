@@ -1,9 +1,6 @@
 import java.util.ArrayList;
 
-import java.util.Scanner;
-
 public class Show {
-    Scanner scanner = new Scanner(System.in);
     private String title;
     private int duration;
     private Director director;
