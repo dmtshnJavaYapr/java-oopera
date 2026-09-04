@@ -11,7 +11,7 @@ public class Person {
         this.gender = gender;
     }
 
-    void printInfo(){
+    public void printInfo(){
         System.out.println(name + " " + surname);
     }
 

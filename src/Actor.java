@@ -9,7 +9,7 @@ public class Actor extends Person {
     }
 
     @Override
-    void printInfo(){
+    public void printInfo(){
         System.out.println(name + " " + surname + " (" + height + ")");
     }
 

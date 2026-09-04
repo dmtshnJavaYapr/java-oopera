@@ -12,7 +12,7 @@ public class MusicShow extends Show {
         this.musicAuthor = musicAuthor;
     }
 
-    void printLibrettoText(){
+    void void printLibrettoText(){
         System.out.println("Текст либретто: " + librettoText);
     }
 }
